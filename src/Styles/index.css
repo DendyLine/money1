@@ -1,0 +1,10 @@
+@import "App.css";
+@import "variables.css";
+@import "common/index.css";
+@import "components/index.css";
+
+* {
+  font-family: Arial;
+  font-size: large;
+}
+

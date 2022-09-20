@@ -1,0 +1,12 @@
+.app--header {
+  background: var(--dark_gray);
+}
+
+.header--exchange {
+  display: flex;
+  padding: 2em;
+  column-gap: 7em;
+  justify-content: center;
+  align-items: center;
+  height: 5vh;
+}
