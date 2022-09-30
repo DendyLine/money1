@@ -6,5 +6,6 @@
 * {
   font-family: Arial;
   font-size: large;
+  user-select: none;
 }
 
